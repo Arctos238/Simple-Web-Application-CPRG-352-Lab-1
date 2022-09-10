@@ -4,7 +4,7 @@
 *This is another item.
 1. This is one
 2. This is two
-This is some code
-{
+    This is some code
+```javascript
  var a = 'hi';
-}
+```
