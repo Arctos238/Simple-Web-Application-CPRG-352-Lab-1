@@ -3,7 +3,7 @@
 *This is an item
 *This is another item.
 1. This is one
-2. This is two \n\n
+2. This is two\
 This is some code 
 ```javascript
  var a = 'hi';
